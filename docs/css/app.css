@@ -1,0 +1,26 @@
+body {
+	font-family:'PT Sans';
+	font-weight: 400;
+}
+
+.outer {
+	padding: 1.25rem;
+}
+
+#result {
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+#payment, #logistic, #others, #perTalent, #perManager, #profit {
+	font-size: 40px;
+	font-weight: 400;
+}
+
+/* Modify foundation elements */
+
+.button {
+	font-family:'PT Sans';
+	font-weight: 700;	
+	text-transform: uppercase;
+}
